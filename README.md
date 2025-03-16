@@ -1,4 +1,3 @@
 # PortFoliyoDeshbhratar
 
-
-https://app.netlify.com/sites/ritikdeshbhratar-portfoliyo/overview
+(https://ritikdeshbhratar-portfoliyo.netlify.app/)
